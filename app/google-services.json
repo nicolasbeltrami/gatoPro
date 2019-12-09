@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1027666285490",
+    "firebase_url": "https://gatoprogame-2138b.firebaseio.com",
+    "project_id": "gatoprogame-2138b",
+    "storage_bucket": "gatoprogame-2138b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027666285490:android:68ee5e0c0ca746066b8aab",
+        "android_client_info": {
+          "package_name": "com.nicolas.gatopro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027666285490-30v0o4nv3ngefnqe40upcd8pjtqmmsq7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nicolas.gatopro",
+            "certificate_hash": "b56bfc67a899fa0ca4eebecd0d18522931cc152c"
+          }
+        },
+        {
+          "client_id": "1027666285490-bvomnrb20ml8thedk0hng5g914g47963.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC0_xevXSPcgNMf7PyuiQNJZo_4MV6Grg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027666285490-bvomnrb20ml8thedk0hng5g914g47963.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
